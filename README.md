@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=AE0C18&background=1A0501A7&center=true&vCenter=true&random=false&width=435&lines=Sejam+bem+vindos;Ol%C3%A1%2C+eu+me+chamo+Narcelio)]() 
 
-<img align="right" alt="Narcelio-pic" height="75" style="border-radius:50px;" src="https://scontent.ffor14-1.fna.fbcdn.net/v/t31.18172-8/14206227_668789709941187_3981787667708823273_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeEmyjhjHlk4oHTpRorebznqqG-vGF3wf2iob68YXfB_aDRgwjrHFVHFR_Fw8phQ9eg_z_fot6pGxnVsD4Or0H66&_nc_ohc=YuV0E_yIdAEAX_BM81K&_nc_ht=scontent.ffor14-1.fna&oh=00_AfAd9aL87F3Cp_ZMdvrmK19qV9MnenjD5I14hXAcZXhVQQ&oe=6590AC84">
+<img align="right" alt="Narcelio-pic" height="75" style="border-radius:50px;" src="https://raw.githubusercontent.com/Narceliolima/Narceliolima/main/narcelio.jpg">
 
 Sou formado em Engenharia de Computação pelo Instituto Federal de Ciencias e Tecnologia do Ceará, sintam se a vontade para explorar e contribuir. :)
 
